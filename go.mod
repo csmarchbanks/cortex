@@ -88,4 +88,4 @@ replace github.com/bradfitz/gomemcache => github.com/themihai/gomemcache v0.0.0-
 // Fix a panic (see: https://github.com/opentracing-contrib/go-grpc/pull/12)
 replace github.com/opentracing-contrib/go-grpc => github.com/pracucci/go-grpc v0.0.0-20201022134131-ef559b8db645
 
-replace github.com/prometheus/prometheus => github.com/csmarchbanks/prometheus v1.8.2-0.20201117035534-69a3f917c9c4
+replace github.com/prometheus/prometheus => github.com/csmarchbanks/prometheus v1.8.2-0.20201117181631-903ed18e6eaa

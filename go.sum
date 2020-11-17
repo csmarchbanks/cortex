@@ -233,6 +233,8 @@ github.com/cpuguy83/go-md2man/v2 v2.0.0-20190314233015-f79a8a8ca69d/go.mod h1:ma
 github.com/creack/pty v1.1.7/go.mod h1:lj5s0c3V2DBrqTV7llrYr5NG6My20zk30Fl46Y7DoTY=
 github.com/csmarchbanks/prometheus v1.8.2-0.20201117035534-69a3f917c9c4 h1:chmboQ/r0zDHaAsLihiaL/UcNlj7Fc2A47mk7+RXfd8=
 github.com/csmarchbanks/prometheus v1.8.2-0.20201117035534-69a3f917c9c4/go.mod h1:MDRkz271loM/PrYN+wUNEaTMDGSP760MQzB0yEjdgSQ=
+github.com/csmarchbanks/prometheus v1.8.2-0.20201117181631-903ed18e6eaa h1:2WkmRr2E52A81k27Haevg0r86vN/5Sswd5TaoOzvbwA=
+github.com/csmarchbanks/prometheus v1.8.2-0.20201117181631-903ed18e6eaa/go.mod h1:MDRkz271loM/PrYN+wUNEaTMDGSP760MQzB0yEjdgSQ=
 github.com/cznic/b v0.0.0-20180115125044-35e9bbe41f07/go.mod h1:URriBxXwVq5ijiJ12C7iIZqlA69nTlI+LgI6/pwftG8=
 github.com/cznic/fileutil v0.0.0-20180108211300-6a051e75936f/go.mod h1:8S58EK26zhXSxzv7NQFpnliaOQsmDUxvoQO3rt154Vg=
 github.com/cznic/golex v0.0.0-20170803123110-4ab7c5e190e4/go.mod h1:+bmmJDNmKlhWNG+gwWCkaBoTy39Fs+bzRxVBzoTQbIc=
